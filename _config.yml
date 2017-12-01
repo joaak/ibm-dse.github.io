@@ -1,7 +1,7 @@
 title: IBM Data Science Elite
 description: Accelerating Data Science and Machine Learning adoption
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site_logo: /images/IBM-DSE.gif
+url: "http://ibm-dse.github.io"
 github_username:  IBM-DSE
 
 # Build settings

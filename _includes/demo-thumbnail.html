@@ -1,0 +1,24 @@
+<div class="demo-thumbnail">
+    
+    <h2>
+        <a class="post-link" href="{{ demo.url | relative_url }}">{{ demo.title | escape }}</a>
+    </h2>
+    
+    <h4>
+        {{ demo.description }}
+    </h4>
+    
+    {% if demo.image %}
+    <div class="demo-image">
+        <img src="{{ site.baseurl }}{{ demo.image }}">
+    </div>
+    {% endif %}
+    
+    {% if demo.website %}
+    <p class="demo-website">
+        <br>
+        <a href="{{ demo.website }}" target="_blank">{{ demo.website }} <span class="glyphicon glyphicon-new-window"></span></a>
+    </p>
+    {% endif %}
+    
+</div>

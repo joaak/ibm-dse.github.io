@@ -1,0 +1,17 @@
+---
+layout: page
+---
+
+{% if page.website %}
+<h4>
+  Demo Link: <a href="{{ page.website }}" target="_blank">{{ page.website }}</a>
+</h4>
+{% endif %}
+
+
+{{ content }}
+
+<br>
+{% if page.repo %}
+<h4>View in GitHub:{% include github-link.html repo=page.repo %}</h4>
+{% endif %}
