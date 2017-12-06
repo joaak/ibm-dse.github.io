@@ -1,3 +1,9 @@
+{% assign start = '' %}
+{% if include.t %}
+    {% assign start = '?start=' | append: include.t %}
+{% endif %}
+<p>
 <div class="video-containter">
-    <iframe src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/{{ include.id }}{{ start }}" frameborder="0" allowfullscreen></iframe>
 </div>
+</p>

@@ -17,4 +17,15 @@ FinDash is a Financial Advisor Dashboard web application that uses data, analyti
 
 The following video demonstrates how the Financial Advisor Dashboard application can leverage the IBM Integrated Analytics System to provide valuable insights about clients, news, and the stock market.
 
-[![Integrated Analytics System Demo Video](images/FinDash-video-thumbnail.png)](https://youtu.be/XTzEc00jx_E?t=38){:target="_blank"}
+{% include youtubePlayer.html id='XTzEc00jx_E' %}
+
+## Press
+
+The use case was also featured in an IBM live stream:
+
+{% include youtubePlayer.html id='EW55zyzGJYs' t='1167' %}
+
+## Technology
+
+This demo uses the [IBM Integrated Analytics System
+](https://www.ibm.com/us-en/marketplace/integrated-analytics-system){:target="_blank"} to enable faster data science
