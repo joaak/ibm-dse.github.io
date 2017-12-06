@@ -8,7 +8,11 @@
         {{ demo.description }}
     </h4>
     
-    {% if demo.image %}
+    {% if demo.thumb_image %}
+    <div class="demo-image">
+        <img src="{{ site.baseurl }}{{ demo.thumb_image }}">
+    </div>
+    {% elsif demo.image %}
     <div class="demo-image">
         <img src="{{ site.baseurl }}{{ demo.image }}">
     </div>
