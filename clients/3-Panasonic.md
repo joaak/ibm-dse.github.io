@@ -3,14 +3,13 @@ layout: demo
 title: Panasonic Digital Mirror
 description: "Ask questions about the weather"
 image: /images/sonny-weather-bot.jpg
-permalink: /Sonny-weather-bot
+permalink: /Panasonic
 ---
 
 Panasonic and IBM collaborated to build the Panasonic Digital Mirror, a personalized, digital concierge that can provide useful services to customers in various locations, such as hotels.
 
-## Video Demo
+## Demo Video
 {% include youtubePlayer.html id='kdr-AtwSDvo' %}
-<br>
 
 Read more in the [Panasonic Press Release](http://shop.panasonic.com/about-us-latest-news-press-releases/01052017-ibmwatson.html){:target="_blank"}
 
@@ -21,6 +20,10 @@ The Digital Mirror was featured at CES 2017 as an integration into the Panasonic
 </div>
 <br>
 [View on ABC News](http://abcnews.go.com/Technology/video/meet-future-robotics-ces-44609620){:target="_blank"}
+
+## Press Release
+
+#### [Panasonic and IBM Join Forces to Develop Cognitive Personal Concierge Solutions with Watson](http://shop.panasonic.com/about-us-latest-news-press-releases/01052017-ibmwatson.html){:target='blank'}
 
 ## Technology
 Sonny is a bot that allows users to ask questions about weather conditions in any part of the world.
