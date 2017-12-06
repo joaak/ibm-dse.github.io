@@ -3,7 +3,6 @@ layout: client
 title: Rare Carat
 description: "\"Rocky\", the World's First AI Jeweler"
 image: /images/RareCarat.png
-permalink: /RareCarat
 ---
 
 Featured on the homepage of [Rare Carat](https://www.rarecarat.com/){:target='blank'}, a startup that calls themselves "Kayak for Diamonds," Rocky is a bot that guides users through the often cumbersome world of diamond purchasing.

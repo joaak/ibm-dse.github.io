@@ -9,20 +9,13 @@
     </h4>
     
     {% if demo.thumb_image %}
-    <div class="demo-image">
+    <div class="image-container">
         <img src="{{ site.baseurl }}{{ demo.thumb_image }}">
     </div>
     {% elsif demo.image %}
-    <div class="demo-image">
+    <div class="image-container">
         <img src="{{ site.baseurl }}{{ demo.image }}">
     </div>
-    {% endif %}
-    
-    {% if demo.website %}
-    <p class="demo-website">
-        <br>
-        {% include external_link.html text=demo.website link=demo.website %}
-    </p>
     {% endif %}
     
 </div>

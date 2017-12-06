@@ -9,10 +9,17 @@ layout: default
   
   <div class="post-content">
     {{ content }}
+    
     <br>
-    {% if page.repo %}
-    <h4>View in GitHub:{% include github-link.html repo=page.repo %}</h4>
+    
+    {% if page.app_link %}
+    <h4><strong>App Link:</strong> {% include external_link.html text=page.app_link link=page.app_link %}</h4>
     {% endif %}
+    
+    {% if page.repo %}
+    <h4><strong>View in GitHub:</strong>{% include github-link.html repo=page.repo %}</h4>
+    {% endif %}
+    
   </div>
 
 </article>

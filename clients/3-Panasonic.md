@@ -3,7 +3,6 @@ layout: client
 title: Panasonic
 description: "Digital Mirror: A Cognitive, Personal Concierge"
 image: /images/Panasonic-Digital-Mirror.jpg
-permalink: /Panasonic
 ---
 
 Panasonic and IBM collaborated to build the Panasonic Digital Mirror, a personalized, digital concierge that can provide useful services to customers in various locations, such as hotels.

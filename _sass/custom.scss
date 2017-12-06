@@ -50,16 +50,11 @@ body, h1, h2, h3, h4, h5, h6 {
   
   position: relative;
   
-  .demo-image {
+  .image-container {
     text-align: center;
     > img {
       max-height: $demo-img-height;
     }
-  }
-  
-  .demo-website {
-    position: absolute;
-    bottom: 0;
   }
 }
 

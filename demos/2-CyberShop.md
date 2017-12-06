@@ -2,10 +2,9 @@
 layout: demo
 title: CyberShop
 description: "End-To-End Demo: Consumer Electronics Retail"
-website: https://cybershop.mybluemix.net/
 image: /images/CyberShop.png
+app_link: https://cybershop.mybluemix.net/
 repo: CyberShop
-permalink: /CyberShop
 ---
 
 CyberShop is a consumer electronics retail store that uses a full set of end-to-end IBM Analytics and Machine Learning tools to enhance their external product campaigns and internal processes.

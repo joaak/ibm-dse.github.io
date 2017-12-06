@@ -2,11 +2,10 @@
 layout: demo
 title: Cognitive Bank
 description: "Banking with IBM Watson and Machine Learning"
-website: https://cognitivebank-demo.mybluemix.net/
 thumb_image: /images/CognitiveBank-dashboard.png
 image: /images/CognitiveBank-profile.png
+app_link: https://cognitivebank-demo.mybluemix.net/
 repo: CognitiveBank
-permalink: /CognitiveBank
 ---
 
 Cognitive Bank is experiencing higher customer churn. They want to reduce churn by offering customers special deals that will improve their satisfaction. However, to reduce loss in revenue, they only want to target those specific customers which are most likely to churn. 

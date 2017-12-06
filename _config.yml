@@ -3,6 +3,7 @@ description: Accelerating Data Science and Machine Learning adoption
 site_logo: /images/IBM-DSE.gif
 url: "http://ibm-dse.github.io"
 github_username:  IBM-DSE
+permalink: /:categories/:title
 
 # Build settings
 markdown: kramdown

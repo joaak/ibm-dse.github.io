@@ -3,7 +3,6 @@ layout: client
 title: BlocPower
 description: "Reducing Energy Costs Across NYC"
 image: /images/BlocPower-app.png
-permalink: /BlocPower
 ---
 
 [BlocPower](http://blocpower.io/){:target='blank'} is using the Internet of Things, machine learning, and structured finance to build a platform that will scale clean energy in American inner cities.
