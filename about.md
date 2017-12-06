@@ -22,4 +22,5 @@ We provide the following in practice:
 - Deep Learning model feature selection, training and evaluation
 - Optimize resources across multiple variables, conditions and goals
 
-You can find the source code for many of our projects on GitHub: {% include github-link.html %}
+You can find the source code for many of our projects on GitHub:
+<h4>{% include github-link.html %}</h4>

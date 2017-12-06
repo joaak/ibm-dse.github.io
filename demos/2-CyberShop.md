@@ -1,7 +1,7 @@
 ---
 layout: demo
 title: CyberShop
-description: "Consumer Electronics Retail"
+description: "End-To-End Demo: Consumer Electronics Retail"
 website: https://cybershop.mybluemix.net/
 image: /images/CyberShop.png
 repo: CyberShop
@@ -12,9 +12,8 @@ CyberShop is a consumer electronics retail store that uses a full set of end-to-
 
 ![Screenshot]({{ site.baseurl }}{{ page.image }})
 
-## Demo
+## Demo Video
 
-#### Video Playlist: IBM Hybrid Cloud Platform: End-To-End Analytics Demo
-<p><div class="video-containter">
-<iframe src="https://www.youtube.com/embed/videoseries?list=PL4PAUwDtrmTnSNEtoiGNlv3G6ZUfAPpo5" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div></p>
+#### Playlist: IBM Hybrid Cloud Platform: End-To-End Analytics Demo
+
+{% include youtubePlayer.html list='PL4PAUwDtrmTnSNEtoiGNlv3G6ZUfAPpo5' %}

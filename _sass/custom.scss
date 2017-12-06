@@ -36,9 +36,11 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 // Custom additions to thumbnail
-.demo-thumbnail {
+.thumbnail {
+  
   min-height: 344px;
   width: 352px;
+  
   padding: 8px;
   margin-right: 20px;
   margin-bottom: 20px;

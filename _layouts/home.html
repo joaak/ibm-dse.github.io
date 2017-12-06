@@ -10,7 +10,7 @@ layout: default
     {% for demo in site.pages %}
     {% if demo.path contains 'client' %}
     <div class="col-sm-6 col-md-4">
-      {% include demo-thumbnail.html demo=demo %}
+      {% include thumbnail.html demo=demo %}
     </div>
     {% endif %}
     {% endfor %}
@@ -23,7 +23,7 @@ layout: default
     {% for demo in site.pages %}
     {% if demo.path contains 'demo' %}
     <div class="col-sm-6 col-md-4">
-      {% include demo-thumbnail.html demo=demo %}
+      {% include thumbnail.html demo=demo %}
     </div>
     {% endif %}
     {% endfor %}
@@ -34,20 +34,8 @@ layout: default
 
 <div class="wrapper">
   
-  <h1>Posts</h1>
-  
-  <ul class="post-list">
-    {% for post in site.posts %}
-    <li>
-      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-      <span class="post-meta">{{ post.date | date: date_format }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span>
-      
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl}}">{{ post.title | escape }}</a>
-      </h2>
-      {{ post.excerpt }}
-    </li>
-    {% endfor %}
-  </ul>
+  <h1>Recent Posts</h1>
+  {% include post_list.html limit=3 %}
+  <h2><a class="page-link" href="/posts"><span class="glyphicon glyphicon-th-list"></span> All Posts</a></h2>
   
 </div>

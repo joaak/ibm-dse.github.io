@@ -1,5 +1,5 @@
 ---
-layout: demo
+layout: client
 title: BlocPower
 description: "Reducing Energy Costs Across NYC"
 image: /images/BlocPower-app.png
@@ -18,4 +18,6 @@ With these insights, BlocPower gives building owners critical insights they need
 
 ## Press Release
 
-#### [Check Out BlocPower’s New Mobile App at IBM InterConnect 2017!](https://marketplace.blocpower.io/blocpowers-keynote-bp-analyze-mobile-app-launch-at-ibm-interconnect-2017/){:target='blank'}
+<p><h4>
+{% include external_link.html text='Check Out BlocPower’s New Mobile App at IBM InterConnect 2017!' link='https://marketplace.blocpower.io/blocpowers-keynote-bp-analyze-mobile-app-launch-at-ibm-interconnect-2017/' %}
+</h4></p>

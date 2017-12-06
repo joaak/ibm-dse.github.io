@@ -15,10 +15,10 @@ Using a combination of IBM Watson and IBM Machine Learning, they are able to rap
 
 ![Screenshot]({{ site.baseurl }}{{ page.image }})
 
-## Demo
+## Demo Video
 
 {% include youtubePlayer.html id='LfwjkBxNCTw' %}
 
-## Press
+## IBM Event
 
 {% include youtubePlayer.html id='v4Ds3PQRt8M' t='5290' %}

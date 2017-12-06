@@ -1,4 +1,4 @@
-<div class="demo-thumbnail">
+<div class="thumbnail">
     
     <h2>
         <a class="post-link" href="{{ demo.url | relative_url }}">{{ demo.title | escape }}</a>
@@ -21,7 +21,7 @@
     {% if demo.website %}
     <p class="demo-website">
         <br>
-        <a href="{{ demo.website }}" target="_blank">{{ demo.website }} <span class="glyphicon glyphicon-new-window"></span></a>
+        {% include external_link.html text=demo.website link=demo.website %}
     </p>
     {% endif %}
     

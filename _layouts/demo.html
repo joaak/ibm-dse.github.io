@@ -1,17 +1,18 @@
 ---
-layout: page
+layout: default
 ---
+<article class="post">
+  
+  <header class="post-header">
+    <h1 class="post-title"><strong>Use Case: </strong>{{ page.title | escape }}</h1>
+  </header>
+  
+  <div class="post-content">
+    {{ content }}
+    <br>
+    {% if page.repo %}
+    <h4>View in GitHub:{% include github-link.html repo=page.repo %}</h4>
+    {% endif %}
+  </div>
 
-{% if page.website %}
-<h4>
-  Demo Link: <a href="{{ page.website }}" target="_blank">{{ page.website }}</a>
-</h4>
-{% endif %}
-
-
-{{ content }}
-
-<br>
-{% if page.repo %}
-<h4>View in GitHub:{% include github-link.html repo=page.repo %}</h4>
-{% endif %}
+</article>

@@ -1,8 +1,8 @@
 ---
-layout: demo
-title: Panasonic Digital Mirror
-description: "Ask questions about the weather"
-image: /images/sonny-weather-bot.jpg
+layout: client
+title: Panasonic
+description: "Digital Mirror: A Cognitive, Personal Concierge"
+image: /images/Panasonic-Digital-Mirror.jpg
 permalink: /Panasonic
 ---
 
@@ -11,24 +11,25 @@ Panasonic and IBM collaborated to build the Panasonic Digital Mirror, a personal
 ## Demo Video
 {% include youtubePlayer.html id='kdr-AtwSDvo' %}
 
-Read more in the [Panasonic Press Release](http://shop.panasonic.com/about-us-latest-news-press-releases/01052017-ibmwatson.html){:target="_blank"}
-
 ## CES 2017
 The Digital Mirror was featured at CES 2017 as an integration into the Panasonic Digital Mirror:
 <div class="video-containter">
 <iframe src='http://abcnews.go.com/video/embed?id=44609620' width='640' height='360' scrolling='no' style='border:none;'></iframe>
 </div>
-<br>
-[View on ABC News](http://abcnews.go.com/Technology/video/meet-future-robotics-ces-44609620){:target="_blank"}
+<p><h4>
+{% include external_link.html text='View on ABC News' link='http://abcnews.go.com/Technology/video/meet-future-robotics-ces-44609620' %}
+</h4></p>
 
 ## Press Release
 
-#### [Panasonic and IBM Join Forces to Develop Cognitive Personal Concierge Solutions with Watson](http://shop.panasonic.com/about-us-latest-news-press-releases/01052017-ibmwatson.html){:target='blank'}
+<p><h4>
+{% include external_link.html text='Panasonic and IBM Join Forces to Develop Cognitive Personal Concierge Solutions with Watson' link='http://shop.panasonic.com/about-us-latest-news-press-releases/01052017-ibmwatson.html' %}
+</h4></p>
 
 ## Technology
 Sonny is a bot that allows users to ask questions about weather conditions in any part of the world.
 
-![Sonny Screenshot]({{ site.baseurl }}{{ page.image }})
+![Sonny Screenshot](/images/sonny-weather-bot.jpg)
 
 The bot's intelligence is powered by the following APIs:
  - [Weather Underground](https://www.wunderground.com/weather/api/){:target="_blank"}

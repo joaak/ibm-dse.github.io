@@ -2,8 +2,12 @@
 {% if include.t %}
     {% assign start = '?start=' | append: include.t %}
 {% endif %}
+{% assign videoseries = '' %}
+{% if include.list %}
+    {% assign videoseries = 'videoseries?list=' | append: include.list %}
+{% endif %}
 <p>
 <div class="video-containter">
-    <iframe src="https://www.youtube.com/embed/{{ include.id }}{{ start }}" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/{{ videoseries }}{{ include.id }}{{ start }}" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 </p>
