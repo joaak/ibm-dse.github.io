@@ -9,7 +9,7 @@ repo: FinDash
 
 The Financial Advisor Dashboard web application that uses data, analytics, and machine learning in an integrated fashion to provide insights to financial advisors preparing for meetings with high-profile clients.
 
-![Screenshot](/images/FinDash.png)
+![Screenshot]({{ site.baseurl }}/images/FinDash.png)
 
 ## Demo Video
 

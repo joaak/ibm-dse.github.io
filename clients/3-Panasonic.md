@@ -28,7 +28,7 @@ The Digital Mirror was featured at CES 2017 as an integration into the Panasonic
 ## Technology
 Sonny is a bot that allows users to ask questions about weather conditions in any part of the world.
 
-![Sonny Screenshot](/images/sonny-weather-bot.jpg)
+![Sonny Screenshot]({{ site.baseurl }}/images/sonny-weather-bot.jpg)
 
 The bot's intelligence is powered by the following APIs:
  - [Weather Underground](https://www.wunderground.com/weather/api/){:target="_blank"}

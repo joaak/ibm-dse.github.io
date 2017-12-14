@@ -1,8 +1,10 @@
 title: IBM Data Science Elite
 description: Accelerating Data Science and Machine Learning adoption
 site_logo: /images/IBM-DSE.gif
-url: "http://ibm-dse.github.io"
 github_username:  IBM-DSE
+
+url: "http://ibm-dse.github.io"
+baseurl: /DSE
 permalink: /:categories/:title
 
 # Build settings
