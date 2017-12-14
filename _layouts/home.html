@@ -36,6 +36,6 @@ layout: default
   
   <h1>Recent Posts</h1>
   {% include post_list.html limit=3 %}
-  <h2><a class="page-link" href="/posts"><span class="glyphicon glyphicon-th-list"></span> All Posts</a></h2>
+  <h2><a class="page-link" href="{{ "/posts" | relative_url }}"><span class="glyphicon glyphicon-th-list"></span> All Posts</a></h2>
   
 </div>
