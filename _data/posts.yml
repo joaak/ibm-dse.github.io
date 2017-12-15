@@ -1,3 +1,11 @@
+- title: "Six Steps Up: From Zero to Data Science for the Enterprise"
+  date: 2017-03-19
+  author: Seth Dobrin
+  publication: Medium
+  link: https://medium.com/inside-machine-learning/six-steps-up-from-zero-to-data-science-for-the-enterprise-7c00b217e495
+  excerpt: "Data has intrinsic value to the enterprise, but how to quantify these data assets has been a struggle for many organizations and for many enterprises as they establish modern data practices and data organizations. In most organizations, data in and of itself doesn’t have intrinsic value. The data’s value emerges only after we build platforms for data science."
+  shortlink: http://ibm.biz/6StepsUp
+  
 - title: "Machine Learning & Apache Spark: A Dynamic Duo"
   date: 2017-06-12
   author: John Thomas
@@ -67,6 +75,14 @@
   publication: Medium
   link: https://medium.com/inside-machine-learning/so-what-exactly-is-ibm-doing-different-with-machine-learning-ce6415dd30e8
   excerpt: "Machine Learning itself is not new. The concepts have been around for decades, and many companies have been building ML models and doing predictive analytics for a while. So what exactly is IBM doing in this space?"
+  
+- title: "What IBM looks for in a data scientist"
+  date: 2017-11-30
+  author: Seth Dobrin & Jean-François Puget
+  publication: Medium
+  link: https://venturebeat.com/2017/11/30/what-ibm-looks-for-in-a-data-scientist/
+  excerpt: "Job seekers sometimes ask how IBM defines “data scientist.” It’s an important question since more and more would-be data scientists are fighting for attention in an increasingly lucrative labor market."
+  shortlink: http://ibm.biz/WhatIBMLooksForInADataScientist
   
 - title: "Unfriendly Skies: Predicting Flight Cancellations Using Weather Data, Part 3"
   date: 2017-12-13
