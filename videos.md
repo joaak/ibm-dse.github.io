@@ -4,19 +4,9 @@ title: Videos
 permalink: /videos
 ---
 
-{% for video in site.data.videos %}
+{% assign video_data = site.data.videos %}
 
-{% if video.id %}
-
-{% if video.title %}
-## {{ video.title }}
-{% endif %}
-{% include youtubePlayer.html id=video.id notitle=true %}
-{% assign link = "https://www.youtube.com/watch?v=" | append: video.id %}
-#### **{% include external_link.html text='View on YouTube' link=link %}**
-<br>
-
-{% elsif video.list %}
+{% for video in video_data.playlists %}
 
 {% if video.title %}
 ## Playlist: {{ video.title }}
@@ -26,5 +16,17 @@ permalink: /videos
 #### **{% include external_link.html text='View on YouTube' link=link %}**
 <br>
 
+{% endfor %}
+
+
+{% for video in video_data.videos %}
+
+{% if video.title %}
+## {{ video.title }}
 {% endif %}
+{% include youtubePlayer.html id=video.id notitle=true %}
+{% assign link = "https://www.youtube.com/watch?v=" | append: video.id %}
+#### **{% include external_link.html text='View on YouTube' link=link %}**
+<br>
+
 {% endfor %}

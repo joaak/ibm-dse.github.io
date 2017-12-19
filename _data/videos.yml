@@ -1,11 +1,74 @@
-- title: Machine Learning Use Cases
+playlists:
+
+- title: "Machine Learning Use Cases"
   list: PL4PAUwDtrmTlljj4Rl67Z9HrFieEwFrQm
+  videos:
+  - id: dzuOJ5TMJXM
+  - id: Rc3Ge9Mf1Vk
+  - id: zIoRHPzXyLQ
+  - id: S6HD01dv3AU
+  - id: 8M_LxbVb2Qk
+  - id: 3zyQeQimsDM
   
-- title: 'IBM Hybrid Cloud Platform: End-To-End Analytics Demo'
+- title: "IBM Hybrid Cloud Platform: End-To-End Analytics Demo"
   list: PL4PAUwDtrmTnSNEtoiGNlv3G6ZUfAPpo5
+  videos:
+  - id: PzNe9SPNdBc
+  - id: 0yq87nD38aI
+  - id: V6Vlp0OejR4
+  - id: Rc3Ge9Mf1Vk
+  - id: 8sR5aVCzZ38
+  - id: 8vZvXJJB4yI
+  - id: dzuOJ5TMJXM
+  - id: 0E84kJdKFSw
+  - id: 4UfOFt_f81E
+  - id: SbWAsTUMNjU
+
+videos:
   
-- title: Delight Clients with Data Science on the IBM Integrated Analytics System
+- title: "Delight Clients with Data Science on the IBM Integrated Analytics System"
   id: XTzEc00jx_E
   
-- title: Slashing Energy Costs Across NYC with Data Science Powered by IBM Watson Data Platform
+- title: "Slashing Energy Costs Across NYC with Data Science Powered by IBM Watson Data Platform"
   id: gY7FrnnzjMw
+
+- title: "DSX Blockchain Analysis - Predicting Shipping Delays"
+  id: zIoRHPzXyLQ
+  
+- title: "IBM Z: From Machine Learning to Learning Machine"
+  id: S6HD01dv3AU
+  
+- title: "Banking Churn Analysis using DSX Local"
+  id: 8M_LxbVb2Qk
+  
+- title: "Using H2O.ai with IBM Data Science Experience"
+  id: 3zyQeQimsDM
+- title: "Cognos Stories in Action"
+  id: PzNe9SPNdBc
+  
+- title: "IBM Db2 HTAP - OLTP and Analytics in the Same Database"
+  id: 0yq87nD38aI
+  
+- title: "Find, use and govern data with the IBM InfoSphere Information Governance Catalog"
+  id: V6Vlp0OejR4
+  
+- title: "Phone Market Analysis with DSX Local"
+  id: Rc3Ge9Mf1Vk
+  
+- title: "Invoking a DSX Machine Learning Model from an External Application"
+  id: 8sR5aVCzZ38
+  
+- title: "Invoking a DSX Machine Learning Model from a Ruby Program"
+  id: 8vZvXJJB4yI
+  
+- title: "How to Read Your Customers' Minds"
+  id: dzuOJ5TMJXM
+  
+- title: "Click Stream Analysis with IBM EventStore"
+  id: 0E84kJdKFSw
+  
+- title: "Twitter data analysis with IBM Watson Explorer: Unstructured Text Analysis"
+  id: 4UfOFt_f81E
+  
+- title: "Optimize Staffing Assignments with IBM Decision Optimization"
+  id: SbWAsTUMNjU
