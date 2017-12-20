@@ -92,3 +92,10 @@
   shortlink: https://ibm.co/IML_Flights3
   excerpt: "In Part 1 of this series, we wrote about our goal to explore a use case and use various machine learning platforms to see how we might build classification models with those platforms to predict flight cancellations. Specifically, we hoped to predict the probability of the cancellation of flights between the ten U.S. airports most affected by weather. We used historical flight data and historical weather data to make predictions for upcoming flights. In Part 2, we started our exploration with IBM SPSS Modeler and APIs from The Weather Company. With this post, we look at IBM’s Data Science Experience (DSX)."
   
+- title: "3 Scenarios for Machine Learning on Multicloud"
+  date: 2017-12-20
+  author: John Thomas
+  publication: Medium
+  link: https://medium.com/inside-machine-learning/3-scenarios-for-machine-learning-on-multicloud-c850fb8bed8f
+  shortlink: https://ibm.co/IML_Multicloud
+  excerpt: "More and more cloud-computing experts are talking about “multicloud”. The term refers to an architecture that spans multiple cloud environments in order to take advantage of different services, different levels of performance, security, or redundancy, or even different cloud vendors. But what sometimes gets lost in these discussions is that multicloud is not always public cloud. In fact, it’s often a combination of private and public clouds. As machine learning (ML) continues to pervade enterprise environments, we need to understand how to make ML practical on multicloud — including those architectures that span the firewall. Let’s look at three possible scenarios."
