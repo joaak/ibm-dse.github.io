@@ -4,19 +4,6 @@ layout: default
 
 <div class="home">
   
-  <h1>Client Stories</h1>
-  
-  <div class="flex">
-    {% for demo in site.pages %}
-    {% if demo.path contains 'client' %}
-    <div class="col-sm-6 col-md-4">
-      {% include thumbnail.html demo=demo %}
-    </div>
-    {% endif %}
-    {% endfor %}
-  </div>
-  <br/>
-  
   <h1>Use Cases</h1>
   
   <div class="flex">
