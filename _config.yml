@@ -4,7 +4,6 @@ site_logo: /images/IBM-DSE.gif
 github_username:  IBM-DSE
 
 url: "http://ibm-dse.github.io"
-baseurl: /DSE
 permalink: /:categories/:title
 
 # Build settings
