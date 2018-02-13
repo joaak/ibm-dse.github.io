@@ -99,3 +99,4 @@
   link: https://medium.com/inside-machine-learning/3-scenarios-for-machine-learning-on-multicloud-c850fb8bed8f
   shortlink: https://ibm.co/IML_Multicloud
   excerpt: "More and more cloud-computing experts are talking about “multicloud”. The term refers to an architecture that spans multiple cloud environments in order to take advantage of different services, different levels of performance, security, or redundancy, or even different cloud vendors. But what sometimes gets lost in these discussions is that multicloud is not always public cloud. In fact, it’s often a combination of private and public clouds. As machine learning (ML) continues to pervade enterprise environments, we need to understand how to make ML practical on multicloud — including those architectures that span the firewall. Let’s look at three possible scenarios."
+  
