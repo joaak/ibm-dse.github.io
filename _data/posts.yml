@@ -100,3 +100,19 @@
   shortlink: https://ibm.co/IML_Multicloud
   excerpt: "More and more cloud-computing experts are talking about “multicloud”. The term refers to an architecture that spans multiple cloud environments in order to take advantage of different services, different levels of performance, security, or redundancy, or even different cloud vendors. But what sometimes gets lost in these discussions is that multicloud is not always public cloud. In fact, it’s often a combination of private and public clouds. As machine learning (ML) continues to pervade enterprise environments, we need to understand how to make ML practical on multicloud — including those architectures that span the firewall. Let’s look at three possible scenarios."
   
+- title: "Hybrid Use Cases Dominate Machine Learning - Part 1"
+  date: 2018-01-16
+  author: John Thomas
+  publication: Interview on BigDataHub
+  link: http://www.ibmbigdatahub.com/blog/hybrid-use-cases-dominate-machine-learning-2018-part-1
+  shortlink: 
+  excerpt: "[Part 1] The importance of information architecture in meeting enterprise AI needs, as well as how ML can be applied in hybrid scenarios" 
+  
+ - title: "Hybrid Use Cases Dominate Machine Learning - Part 2"
+  date: 2018-01-25
+  author: John Thomas
+  publication: Interview on BigDataHub
+  link: http://www.ibmbigdatahub.com/blog/hybrid-use-cases-dominate-machine-learning-2018-part-2
+  shortlink: 
+  excerpt: "[Part 2] The importance of information architecture in meeting enterprise AI needs, as well as how ML can be applied in hybrid scenarios" 
+   
