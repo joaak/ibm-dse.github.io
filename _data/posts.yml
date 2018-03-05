@@ -117,15 +117,16 @@
 - title: "Raiders of Every Industry: Journey to Digital"
   date: 2018-02-01
   author: Seth Dobrin
-  publication:"Medium"
+  publication: Medium
   link: https://medium.com/ibm-analytics/raiders-of-every-industry-the-journey-to-digital-14bd7f1dc26f?source=linkShare-a354e5b3496c-1517861948
   shortlink: http://ibm.biz/Journey2Digital-Intro
   excerpt: "Every industry will be disrupted in the coming years. None are safe. The safer they seem, the more susceptible they probably are. In fact, only two things stand a chance of protecting incumbents:"
   
-  - title: "The Journey to Digital: Part 1, Table Stakes"
+- title: "The Journey to Digital: Part 1, Table Stakes"
   date: 2018-02-14
   author: Seth Dobrin
-  publication: "Medium"
+  publication: Medium
   link: https://medium.com/ibm-analytics/the-journey-to-digital-part-1-table-stakes-81d72f41a83d
   shortlink: http://ibm.biz/Journey2Digital-Part1
   excerpt: "Effectively transforming a company requires a commitment to do things differently, and requires that your partners and vendors do things differently too. To my mind, these days transforming a company means transforming it digitally and any successful digital transformation requires three things. I think of these as the minimum requirements for getting a seat at the table, the table stakes if you will:"
+  
