@@ -1,3 +1,11 @@
+- title: "Using Machine Learning to Predict Outcomes for Sepsis Patients"
+  date: 2018-04-30
+  author: Ricardo Balduino
+  publication: Medium
+  link: https://medium.com/inside-machine-learning/using-machine-learning-to-predict-outcomes-for-sepsis-patients-cde5625ce9cb
+  excerpt: "Sepsis is a complex disease that is difficult to identify and treat. IBM and Geisinger Healthcare System partnered to build a model to predict all-cause mortality of Sepsis patients, which could guide medical teams to closely monitor and take preventive measures for those patients with high probability of death."
+  shortlink: https://ibm.co/IML_MLSepsis
+
 - title: "Six Steps Up: From Zero to Data Science for the Enterprise"
   date: 2017-03-19
   author: Seth Dobrin
