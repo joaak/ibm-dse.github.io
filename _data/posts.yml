@@ -84,6 +84,14 @@
   excerpt: "Job seekers sometimes ask how IBM defines “data scientist.” It’s an important question since more and more would-be data scientists are fighting for attention in an increasingly lucrative labor market."
   shortlink: http://ibm.biz/WhatIBMLooksForInADataScientist
   
+ - title: "How IBM builds an effective data science team"
+  date: 2017-12-22
+  author: Seth Dobrin 
+  publication: VentureBeat
+  link: https://venturebeat.com/2017/12/22/how-ibm-builds-an-effective-data-science-team/
+  excerpt: "Data Science is a team sport. While I’m not sure where this phrase was coined, it is an accurate phrase. This must be ringing true with enterprises as well since we often get the question: “What should the structure of a data science team be?” and “Where should a data science team report into?” The first question is probably a little more straight forward and that is what we will address here. The answer to the second question really is it depends on your organizations maturity in this space, but is should be some sort of federated or hub and spoke model eventually. Breaking down what is required to successfully execute a data science project and acknowledging that very few individuals possess all these skills helps to define what a team should look like. "
+  shortlink: http://ibm.biz/HowIBMBuldsDSTeams
+   
 - title: "Unfriendly Skies: Predicting Flight Cancellations Using Weather Data, Part 3"
   date: 2017-12-13
   author: Tim Bohn and Ricardo Balduino
@@ -138,3 +146,27 @@
   excerpt: "Sepsis is a complex disease that is difficult to identify and treat. IBM and Geisinger Healthcare System partnered to build a model to predict all-cause mortality of Sepsis patients, which could guide medical teams to closely monitor and take preventive measures for those patients with high probability of death."
   shortlink: https://ibm.co/IML_MLSepsis
   
+- title: "The Journey to Digital: Part 2, Data Transformation"
+  date: 2018-03-15
+  author: Seth Dobrin
+  publication: Medium
+  link: https://medium.com/ibm-analytics/the-journey-to-digital-part-2-data-transformation-bd2c42a07c91
+  shortlink: https://ibm.co/JourneyToDigital_Part2
+  excerpt: "This stage is about defining the core assets that create value for the enterprise, and it’s about identifying, discovering and governing the right data without necessarily expecting — or forcing — upheaval. At this stage, data consumers might ask for data to support their preconceived notions. That’s actually fine. More often than not, aligning with existing expectations is a necessary step as you build consensus for data science to transform the organization."
+  
+- title: "The Journey to Digital: Part 3, Insight Transformation"
+  date: 2018-04-12
+  author: Seth Dobrin
+  publication: Medium
+  link: https://medium.com/ibm-analytics/the-journey-to-digital-part-3-data-science-transformation-3c239008c9c
+  shortlink: https://ibm.co/JourneyToDigital_Part3
+  excerpt: "What needs to be done differently at this stage? This is about mapping out the decisions people make across the enterprise. You’ll use this full map of those decisions to create a backlog of decisions for your data science teams to tackle. Then to prioritize the backlog, you’ll assign a value to each decision, taking into account the likelihood and ease of implementation."
+  
+ - title: "Don’t Let Data Science Become a Scam"
+  date: 2018-03-15
+  author: Seth Dobrin
+  publication: Medium
+  link: https://medium.com/ibm-analytics/dont-let-data-science-become-a-scam-d04840849249
+  shortlink: https://ibm.co/IBMDataScience
+  excerpt: "Companies have been sold on the alchemy of data science. They have been promised transformative results. They modeled their expectations after their favorite digital-born companies. They have piled a ton of money into hiring expensive data scientists and ML engineers. They invested heavily in software and hardware. They spend considerable time ideating. Yet despite all this effort and money, many of these companies are enjoying little to no meaningful benefit. This is primarily because they have spent all these resources on too much experimentation, projects with no clear business purpose, and activity that doesn’t align with organizational priorities."
+   
