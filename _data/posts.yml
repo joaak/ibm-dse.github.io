@@ -170,3 +170,23 @@
   excerpt: "Sepsis is a complex disease that is difficult to identify and treat. IBM and Geisinger Healthcare System partnered to build a model to predict all-cause mortality of Sepsis patients, which could guide medical teams to closely monitor and take preventive measures for those patients with high probability of death."
   shortlink: https://ibm.co/IML_MLSepsis
   
+- title: "Using Excel to manage scenarios in Decision Optimization for DSX"
+  date: 2018-04-04
+  author: Victor Terpstra
+  publication: Medium
+  link: https://medium.com/@vjterpstracom/using-excel-to-manage-scenarios-in-decision-optimization-for-dsx-831a1143a023
+  excerpt: "Excel can be used to manage scenario data consisting of multiple tabular data sets in one file. This allows for an easier creation of scenarios for what-if analysis using the Decision Optimization add-on for DSX."
+  
+- title: "GitHub for DSX projects"
+  date: 2018-04-14
+  author: Victor Terpstra
+  publication: Medium
+  link: https://medium.com/@vjterpstracom/github-for-dsx-projects-615565b02e79
+  excerpt: "Linking a DSX project to a GitHub repository has a number of advantages: backup of your code and assets, easy migration to new DSX clusters, working on multiple clusters simultaneously, working off-line on your local work station, sharing your code, collaboration, etc. This post contains step-by-step instructions of the setup and work flow for the GitHub integration in DSX."
+
+- title: "DSX, GitHub and forking"
+  date: 2018-06-18
+  author: Victor Terpstra
+  publication: Medium
+  link: https://medium.com/@vjterpstracom/dsx-github-and-forking-1478c27e65e
+  excerpt: "Forking a DSX project in GitHub creates a greater separation between users and allows for a more flexibility in merging assets. A greater separation allows DSX users to commit to their linked GitHub repository frequently without immediately impacting other users of the project. Assets are merged between users explicitly using GitHub pull-requests and can only be done when and if the owner(s) of the repository agree. Solving merge conflicts can be performed outside of DSX, either on GitHub or using any of the available Git tools on your local workstation."
