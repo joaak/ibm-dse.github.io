@@ -190,3 +190,10 @@
   publication: Medium
   link: https://medium.com/@vjterpstracom/dsx-github-and-forking-1478c27e65e
   excerpt: "Forking a DSX project in GitHub creates a greater separation between users and allows for a more flexibility in merging assets. A greater separation allows DSX users to commit to their linked GitHub repository frequently without immediately impacting other users of the project. Assets are merged between users explicitly using GitHub pull-requests and can only be done when and if the owner(s) of the repository agree. Solving merge conflicts can be performed outside of DSX, either on GitHub or using any of the available Git tools on your local workstation."
+
+- title: "Predictive Maintenance Scheduling with IBM Data Science Experience and Decision Optimization"
+  date: 2018-06-20
+  author: Yana Ageeva
+  publication: Medium
+  link: https://medium.com/@yanaa/predictive-maintenance-scheduling-with-ibm-data-science-experience-and-decision-optimization-25bc5f1b1b99
+  excerpt: "How to keep your assets healthy and repair costs low by scheduling maintenance at exactly the right time"
