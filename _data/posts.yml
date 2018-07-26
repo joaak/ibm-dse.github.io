@@ -197,3 +197,10 @@
   publication: Medium
   link: https://medium.com/@yanaa/predictive-maintenance-scheduling-with-ibm-data-science-experience-and-decision-optimization-25bc5f1b1b99
   excerpt: "How to keep your assets healthy and repair costs low by scheduling maintenance at exactly the right time"
+
+- title: "Reinforcement Learning: The Business use-cases Part 1"
+  date: 2018-07-24
+  author: Aishwarya Srinivasan
+  publication: Medium
+  link: https://medium.com/inside-machine-learning/reinforcement-learning-the-business-use-case-part-1-65976c745319
+  excerpt: "First blog of the Reinfocement Learning: The Business Use-cases series; Introduction to Reinforcement Learning"
