@@ -204,3 +204,11 @@
   publication: Medium
   link: https://medium.com/inside-machine-learning/reinforcement-learning-the-business-use-case-part-1-65976c745319
   excerpt: "First blog of the Reinfocement Learning: The Business Use-cases series; Introduction to Reinforcement Learning"
+  
+  - title: "Leveraging Watson’s Machine Learning GPUs to accelerate your Deep Learning project in Python"
+  date: 2018-08-08
+  author: Maxime Allard
+  publication: Medium
+  link: https://medium.com/inside-machine-learning/leveraging-watsons-machine-learning-gpus-to-accelerate-your-deep-learning-project-in-python-e4ccf497a5f3
+  excerpt: "Use GPUs from the Watson Machine Learning Service for any deep learning project in Python"
+  shortlink: https://ibm.co/IML_GPUs-and-DL-in-Python
