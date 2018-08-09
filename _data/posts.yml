@@ -212,6 +212,14 @@
   link: https://medium.com/inside-machine-learning/reinforcement-learning-the-business-use-case-part-2-c175740999
   excerpt: "Reinforcement Learning in Trading"
 
+- title: "Statistical Modeling and Machine Learning Applications for Time-Series Problems"
+  date: 2018-07-31
+  author: Aakanksha Joshi
+  publication: Medium 
+  link: https://medium.com/inside-machine-learning/statistical-modeling-and-machine-learning-applications-for-time-series-problems-277e68c05350
+  shortlink: https://ibm.co/IML_TimeSeries
+  excerpt: "Different ways to work with time series use cases"
+
 - title: "Leveraging Watson’s Machine Learning GPUs to accelerate your Deep Learning project in Python"
   date: 2018-08-08
   author: Maxime Allard
